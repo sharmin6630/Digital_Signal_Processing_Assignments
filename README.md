@@ -11,4 +11,4 @@
  7. By means of the DFT and IDFT, determine the response of the FIR filter with impulse response h(n) to the input sequence x(n)
  8. Compute the Fast Fourier Transform (FFT) using divide and conquer approach (e.g N=2 x N/2)
 
-### The functions have been implemented and then produced results have been comapared with Numpy/ Python library functions.
+The functions have been implemented and then produced results have been comapared with Numpy/ Python library functions.
